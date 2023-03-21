@@ -1045,7 +1045,7 @@ input[type="radio"]:checked + label::after {
   margin-bottom: 0;
 }
 .name-box-sp{
-  margin-left: 10px;
+  margin-left: 5px;
 }
 .btn-sp-box .item-btn .btn-cart{
   height: 70px;
@@ -1081,6 +1081,15 @@ input[type="radio"]:checked + label::after {
 }
 .hidden{
   display: none;
+}
+.btn-soluong-box{
+  margin-top: 10px;
+}
+.btn-soluong-box button{
+  background-color: #ffffff;
+}
+.btn-soluong-box label{
+  background-color: #ffffff;
 }
 @media(max-width : 1400px){
   .btn-cart{
